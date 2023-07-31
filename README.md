@@ -1,4 +1,4 @@
-#Tindog
+# Tindog
 It is Frontend clone of Tinder, made using HTML & CSS.
 
 Preview -
